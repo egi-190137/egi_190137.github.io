@@ -3,11 +3,11 @@ body {
 }
 .jumbotron {
     padding-top: 6rem;
-    background-color: #ffe5d0;
+    background-color: hsla(41, 100%, 63%, 0.7);
 }
 
 #projects {
-    background-color: #ffe5d0;
+    background-color: hsla(41, 100%, 63%, 0.7);
 }
 
 a {
